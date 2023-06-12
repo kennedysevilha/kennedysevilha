@@ -1,20 +1,28 @@
-<h1> oiii sou Kennedy - Estudante de programação</h1>
+<h1 align="center"> oiii sou Kennedy - Estudante de Ciência da Computação</h1>
 
-<div>
-<a href="https://github.com/kennedysevilha">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kennedysevilha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedysevilha&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<hr>
-  <div> 
-   <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </div>
-  <hr>
-   <div>
-      <a href="https://www.linkedin.com/in/kennedy-sevilha-a6111824b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href = "mailto:kennedysevilha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<table><tr><td valign="top" width="50%">
+
+<h2 Color="white" align="center"> Linguagens e ferramentas ⚙️</h2>
+<a href="https://github.com/kennedysevilha/kennedysevilha/edit/main/README.md">
+<br />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-python-2d2b80?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-d22d1d?&style=for-the-badge&logo=git&logoColor=white" /> 
+
+
   
-   </div>
+</td><td valign="top" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedysevilha&layout=compact&theme=tokyonight" width="500" /></a>
+  
+</td></tr></table> 
+
+<br />
+  <hr>
+   <div align="center">
+      <a href="https://www.linkedin.com/in/kennedy-sevilha-a6111824b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "mailto:kennedysevilha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d22d1d?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+   </div
